@@ -1,0 +1,2 @@
+﻿  main.cpp
+H:\VisualStudio Workspace\Electronics_lesson6\Electronics_lesson6\main.cpp(46,102): error C2512: Base::Base: нет подходящего конструктора по умолчанию
